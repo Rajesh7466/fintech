@@ -7,12 +7,14 @@ Write setup steps here...
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
 
 ## Screenshot
-![Preview](images/slider1.png)
+![Preview](images/screenshot1.png)
+![Preview](images/screenshot2.png)
+![Preview](images/screenshot3.png)
+![Preview](images/screenshot4.png)
+![Preview](images/screenshot5.png)
+![Preview](images/screenshot6.png)
 
-## Evaluation Criteria
-- Accuracy of UI
-- Responsiveness
-- Code structure & cleanliness
-- Creativity while keeping the Razorpay style
+ 
