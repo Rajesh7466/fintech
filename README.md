@@ -1,7 +1,5 @@
 # FinPay Landing Page
 
-## Setup Instructions
-Write setup steps here...
 
 ## Frameworks / Libraries Used
 - HTML
